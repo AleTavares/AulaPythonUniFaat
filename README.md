@@ -23,8 +23,6 @@ O repositório está organizado da seguinte forma:
   - **012 Conjuntos.py**: Exemplos de operações com conjuntos.
   - **014 listComprehension.py**: Exemplos de list comprehension.
   - **14-1 Lambda.py**: Exemplos de funções lambda.
-  - **015 Desafios.py**: Desafios de programação.
-  - **016 Desafio 2.py**: Desafios de programação com leitura de arquivos CSV.
   - **Aula.ipynb**: Notebook Jupyter com análise de dados.
   - **lista_alunos.csv**: Arquivo CSV com lista de alunos e notas.
   - **notas.csv**: Arquivo CSV com notas dos alunos.
